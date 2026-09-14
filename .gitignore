@@ -13,7 +13,7 @@ __pycache__/
 .vscode/
 
 # ChromaDB / Vector Store
-vector_store/
+
 
 # OS Files
 .DS_Store
